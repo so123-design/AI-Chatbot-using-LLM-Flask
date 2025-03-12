@@ -16,7 +16,7 @@ Chatbots are widely used in various industries, from customer service to virtual
 
 
 <p align="center">
-  <img src="https://github.com/so123-design/AI-Chatbot-using-LLM-Flask/blob/48064b294eb9e393b4fbdc08ae38a83aaf197fe0/LLM%20chatbot%20screenshot%202.PNG" alt="My Image" width="300">
+  <img src="https://github.com/so123-design/AI-Chatbot-using-LLM-Flask/blob/48064b294eb9e393b4fbdc08ae38a83aaf197fe0/LLM%20chatbot%20screenshot%202.PNG" alt="My Image" width="800">
 </p>
 
 
