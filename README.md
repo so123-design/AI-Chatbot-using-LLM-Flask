@@ -14,6 +14,13 @@ This project is a web-based chatbot powered by a **Large Language Model (LLM)**.
 ## **1. Introduction**  
 Chatbots are widely used in various industries, from customer service to virtual assistants. This project demonstrates how to integrate **LLMs** into a chatbot application using **Flask** as the backend and **Facebook’s BlenderBot** as the AI model. It processes user inputs, maintains conversation history, and generates responses dynamically.
 
+
+<p align="center">
+  <img src="https://github.com/so123-design/AI-Chatbot-using-LLM-Flask/blob/48064b294eb9e393b4fbdc08ae38a83aaf197fe0/LLM%20chatbot%20screenshot%202.PNG" alt="My Image" width="300">
+</p>
+
+
+
 ---
 
 ## **2. Technologies Used**  
